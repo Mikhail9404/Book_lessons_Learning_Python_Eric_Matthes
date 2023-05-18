@@ -1,0 +1,3 @@
+In Python you can learned about variables, lists, tuples, dictionaries.
+In Python you can automation or scripting.
+In Python you can software testing and prototyping. 
