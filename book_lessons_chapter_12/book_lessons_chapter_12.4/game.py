@@ -42,6 +42,10 @@ class TestGame:
             self.rocket.moving_right = True
         elif event.key == pygame.K_LEFT:
             self.rocket.moving_left = True
+        elif event.key == pygame.K_DOWN:
+            self.rocket.moving_down = True
+        elif event.key == pygame.K_UP:
+            self.rocket.moving_up = True
         elif event.key == pygame.K_q:
             sys.exit()
 
